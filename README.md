@@ -2,7 +2,7 @@
 
 这里主要存放我收集的 iOS 开发相关的资料和笔记，我会按照内容对应的 iOS 开发知识点来分类。
 
-##目录
+## 目录
 
    * [iOS-Dev-Collection](#ios-dev-collection)
       * [Objc](#objc)
@@ -12,6 +12,8 @@
          * [Socket](#socket)
       * [推送](#推送)
          * [推送扩展](#推送扩展)
+
+---
 
 ## Objc
 
