@@ -55,3 +55,6 @@
 ### WKWebView
 - [[<WKContentView 0x7ff4f2068a00> valueForUndefinedKey:]: this class is not key value coding-compliant for the key webSelectionAssistant](https://stackoverflow.com/questions/55413844/wkcontentview-not-key-value-coding-compliant-for-key-webselectionassistant) —— 我在模拟器调试网页的时候，修改页面文字内容就会报错，原因是打开了全局断点。
 - [UIImageView get the position of the showing Image](https://stackoverflow.com/questions/26348736/uiimageview-get-the-position-of-the-showing-image) —— 想拿到 ImageView 里面 Image 的位置和大小真是一件困难的事
+
+### Navigation ViewController
+- [Navigation ViewController 隐藏顶部导航栏之后无法右滑返回的问题](https://www.jianshu.com/p/9b067de4e771)
