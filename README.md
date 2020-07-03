@@ -54,3 +54,11 @@
 
 ### WKWebView
 - [[<WKContentView 0x7ff4f2068a00> valueForUndefinedKey:]: this class is not key value coding-compliant for the key webSelectionAssistant](https://stackoverflow.com/questions/55413844/wkcontentview-not-key-value-coding-compliant-for-key-webselectionassistant) —— 我在模拟器调试网页的时候，修改页面文字内容就会报错，原因是打开了全局断点。
+
+### Transform
+- [iOS：重识Transform和frame](https://www.jianshu.com/p/e1fec2f92c63) -- 让我理解了 transform 对 frame 的影响，重新认识了 frame。
+
+## AVFoundation
+
+### AVPlayerLayer
+= [iOS 基于AVPlayer封装的播放器，全屏切换，切换播放源](https://www.jianshu.com/p/84abeb68fb62) -- 其实对 PlayerLayer 的旋转操作就是对 layer 的旋转操作，我对 layer 还不够熟悉。
