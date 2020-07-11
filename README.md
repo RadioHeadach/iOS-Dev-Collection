@@ -73,7 +73,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ### Transform
 - [iOS：重识Transform和frame](https://www.jianshu.com/p/e1fec2f92c63) -- 让我理解了 transform 对 frame 的影响，重新认识了 frame
-
+- [线段与线段、矩形相交问题](https://s-tm.cn/2018/04/15/%E7%BA%BF%E6%AE%B5%E4%B8%8E%E7%BA%BF%E6%AE%B5%E3%80%81%E7%9F%A9%E5%BD%A2%E7%9B%B8%E4%BA%A4%E9%97%AE%E9%A2%98/) -- 微信的图片编辑在贴图缩放的时候，不需要把两个触摸点都在 view 的内部，只需要两个点组成的直线与 view 的矩形相交即可，这是判断直线与矩形是否相交的算法
 ## AVFoundation
 ### AVPlayerLayer
 = [iOS 基于AVPlayer封装的播放器，全屏切换，切换播放源](https://www.jianshu.com/p/84abeb68fb62) -- 其实对 PlayerLayer 的旋转操作就是对 layer 的旋转操作，我对 layer 还不够熟悉
